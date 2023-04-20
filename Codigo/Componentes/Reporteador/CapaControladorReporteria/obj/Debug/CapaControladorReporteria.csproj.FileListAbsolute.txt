@@ -1,0 +1,9 @@
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaControladorReporteria.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaControladorReporteria.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaModeloReporteria.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaModeloReporteria.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.AssemblyReference.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.CoreCompileInputs.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.CopyComplete
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.pdb

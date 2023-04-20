@@ -1,0 +1,104 @@
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\NavegadorVista.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\NavegadorVista.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\Capa_VistaConsultas.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\FontAwesome.Sharp.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\NavegadorControlador.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\Seguridad_Controlador.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\Capa_ControladorConsultas.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\NavegadorModelo.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\CapaVistaReporteria.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\Modelo_Seguridad.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\Capa_Modelo.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\CapaControladorReporteria.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\CapaModeloReporteria.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.Shared.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\ShockwaveFlashObjects.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\stdole.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\Capa_VistaConsultas.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\NavegadorControlador.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\Seguridad_Controlador.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\Capa_ControladorConsultas.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\NavegadorModelo.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\CapaVistaReporteria.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\CapaVistaReporteria.dll.config
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\Modelo_Seguridad.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\Capa_Modelo.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\CapaControladorReporteria.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\bin\Debug\CapaModeloReporteria.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.csproj.AssemblyReference.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\obj\Debug\Vista.Ayuda.resources
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.Navegador.resources
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.Properties.Resources.resources
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.csproj.GenerateResource.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.csproj.CoreCompileInputs.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.csproj.CopyComplete
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.pdb
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\NavegadorVista.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\NavegadorVista.pdb
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\Capa_VistaConsultas.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\NavegadorControlador.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\Seguridad_Controlador.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\Capa_ControladorConsultas.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\NavegadorModelo.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\CapaVistaReporteria.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\Modelo_Seguridad.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\Capa_Modelo.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\CapaControladorReporteria.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\CapaModeloReporteria.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\stdole.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\Capa_VistaConsultas.pdb
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\NavegadorControlador.pdb
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\Seguridad_Controlador.pdb
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\Capa_ControladorConsultas.pdb
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\NavegadorModelo.pdb
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\CapaVistaReporteria.pdb
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\CapaVistaReporteria.dll.config
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\Capa_Modelo.pdb
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\CapaControladorReporteria.pdb
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.csproj.AssemblyReference.cache
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\obj\Debug\Vista.Ayuda.resources
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.Navegador.resources
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.Properties.Resources.resources
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.csproj.GenerateResource.cache
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.csproj.CoreCompileInputs.cache
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.csproj.CopyComplete
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.pdb

@@ -1,0 +1,6 @@
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Seguridad\Colchoneria\Modelo\bin\Debug\Modelo_Seguridad.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Seguridad\Colchoneria\Modelo\bin\Debug\Modelo_Seguridad.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.csproj.AssemblyReference.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.csproj.CoreCompileInputs.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.pdb

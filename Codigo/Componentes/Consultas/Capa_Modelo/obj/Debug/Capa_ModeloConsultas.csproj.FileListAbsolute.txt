@@ -1,0 +1,6 @@
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Modelo\bin\Debug\Capa_Modelo.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Modelo\bin\Debug\Capa_Modelo.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_ModeloConsultas.csproj.AssemblyReference.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_ModeloConsultas.csproj.CoreCompileInputs.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_Modelo.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_Modelo.pdb

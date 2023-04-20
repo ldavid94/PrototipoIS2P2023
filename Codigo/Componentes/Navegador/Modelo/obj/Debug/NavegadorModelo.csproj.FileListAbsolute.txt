@@ -1,0 +1,42 @@
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Modelo\bin\Debug\NavegadorModelo.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Modelo\bin\Debug\NavegadorModelo.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Modelo\bin\Debug\FontAwesome.Sharp.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.AssemblyReference.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.CoreCompileInputs.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.CopyComplete
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.pdb
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\NavegadorModelo.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\NavegadorModelo.pdb
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\CapaVistaReporteria.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\CapaControladorReporteria.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\CapaModeloReporteria.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\stdole.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\CapaVistaReporteria.pdb
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\CapaVistaReporteria.dll.config
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\CapaControladorReporteria.pdb
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.AssemblyReference.cache
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.CoreCompileInputs.cache
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.CopyComplete
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.dll
+C:\Users\ldavi\Desktop\Serie II\Repositorio de Github\PrototipoIS2P2023\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.pdb

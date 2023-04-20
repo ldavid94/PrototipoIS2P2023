@@ -1,0 +1,16 @@
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Vista\bin\Debug\Capa_VistaConsultas.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Vista\bin\Debug\Capa_VistaConsultas.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Vista\bin\Debug\Capa_ControladorConsultas.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Vista\bin\Debug\FontAwesome.Sharp.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Vista\bin\Debug\Capa_Modelo.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Vista\bin\Debug\Capa_ControladorConsultas.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Vista\bin\Debug\Capa_Modelo.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.csproj.AssemblyReference.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.Busqueda_Avanzada.resources
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.Busqueda_Simple.resources
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.Busqueda.resources
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.csproj.GenerateResource.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.csproj.CoreCompileInputs.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.csproj.CopyComplete
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2 de Proyecto de ingenieria de software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.pdb
